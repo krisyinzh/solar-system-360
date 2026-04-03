@@ -1,6 +1,7 @@
 # 🌌 宇宙·太阳系 360° 可视化
 
 一个高保真、360°可旋转的太阳系可视化项目，采用 Three.js WebGL 渲染，具有逼真的行星纹理、动态光照和交互功能。
+<img width="807" height="795" alt="image" src="https://github.com/user-attachments/assets/628fb2fc-ef33-4e6f-9326-553cd0013656" />
 
 ## ✨ 主要特性
 
